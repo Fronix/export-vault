@@ -2,9 +2,9 @@
 	"id": "export-vault",
 	"name": "Export Vault",
 	"version": "1.0.1",
-	"minAppVersion": "0.12.0",
+	"minAppVersion": "0.15.0",
 	"description": "Combines all markdown files in the vault into a single file.",
 	"author": "Fronix",
 	"authorUrl": "https://github.com/Fronix",
 	"isDesktopOnly": false
-  }
+}
